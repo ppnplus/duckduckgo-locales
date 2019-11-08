@@ -1,0 +1,2447 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "cloudsave"
+msgid "The cloud save bookmarklet is a URL that automatically enables cloud save."
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Stay protected and informed with our privacy newsletters."
+msgstr ""
+
+msgid "Did you mean %s?"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Enable cloud save by entering your existing passphrase."
+msgstr ""
+
+msgctxt "Report image modal"
+msgid "Not relevant"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Invite friends to the Duck Side!"
+msgstr ""
+
+msgctxt "settings"
+msgid "Load"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "In the interest of transparency, this data is not encrypted: you can see exactly what information we store."
+msgstr ""
+
+msgid "Privacy, simplified."
+msgstr ""
+
+msgid "Duck it"
+msgstr ""
+
+msgid "Finland"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Get New Themes"
+msgstr ""
+
+msgid "Use in Safari"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Learn About DuckDuckGo"
+msgstr ""
+
+#. shown after the DuckDuckGo extension is installed
+msgctxt "welcome message"
+msgid "Here's what it does:"
+msgstr ""
+
+msgid "Click the drop down in the search box"
+msgstr ""
+
+msgid "Past Year"
+msgstr ""
+
+msgctxt "showcase_traffic"
+msgid "Over %s Billion anonymous searches."
+msgstr ""
+
+msgid "All Regions"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgctxt "image-layout"
+msgid "Square"
+msgstr ""
+
+msgid "Add DuckDuckGo"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "No, old user!"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "Radio or podcast"
+msgstr ""
+
+msgid "Find DuckDuckGo in the displayed list and click %sMake Default%s"
+msgstr ""
+
+msgid "Past Week"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "You can restore your settings after deleting cookies"
+msgstr ""
+
+msgid "Products"
+msgstr ""
+
+msgid "Click the arrow to the right of the %shome icon%s"
+msgstr ""
+
+msgid "Safe search blocked results for %s."
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Ad is annoying"
+msgstr ""
+
+msgid "Go to Options."
+msgstr ""
+
+msgctxt "image-type"
+msgid "All Types"
+msgstr ""
+
+msgid "Thank you!"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "We don't track you, so we could use your help telling us what brought you back today:"
+msgstr ""
+
+msgid "Thailand"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Your passphrase is used to generate a key using the Secure Hash Algorithm known as %sSHA-2%s, using a 512 bit key."
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgctxt "mobile promotion on desktop"
+msgid "Also search privately on your iPad, iPhone, or Android!"
+msgstr ""
+
+msgid "All Results"
+msgstr ""
+
+msgctxt "noresults"
+msgid "%sClick here%s to try again, if you think there should be results for this search."
+msgstr ""
+
+msgid "Click the Duck icon at the top of your browser to search!"
+msgstr ""
+
+msgid "You now have the tools you need to control your online footprint and take back your privacy!"
+msgstr ""
+
+msgid "France"
+msgstr ""
+
+msgid "Open %sMenu > Settings > Search engine%s and select DuckDuckGo!"
+msgstr ""
+
+msgid "More Info"
+msgstr ""
+
+msgctxt "Report image modal"
+msgid "Copyright violation"
+msgstr ""
+
+msgid "Russia"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Regular Hours Today"
+msgstr ""
+
+msgid "Select DuckDuckGo!"
+msgstr ""
+
+msgctxt "settings dropdown"
+msgid "Reset"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "How is it anonymous?"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Pass phrase must be at least 9 characters long"
+msgstr ""
+
+msgctxt "region filter"
+msgid "Recent:"
+msgstr ""
+
+msgid "Click the %s...%s icon at the top right:"
+msgstr ""
+
+msgctxt "color"
+msgid "Pink"
+msgstr ""
+
+msgid "Click %sSettings%s"
+msgstr ""
+
+msgctxt "video-resolution"
+msgid "Any Resolution"
+msgstr ""
+
+msgid "More News"
+msgstr ""
+
+msgctxt "frontpage"
+msgid "The search engine that doesn't track you. %sLearn More%s"
+msgstr ""
+
+msgid "Turn Off Region"
+msgstr ""
+
+msgid "Canada"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Donating for Privacy"
+msgstr ""
+
+msgid "Open %sSettings > Safari > Search Engine%s and select DuckDuckGo!"
+msgstr ""
+
+msgctxt "email newsletter"
+msgid "Subscribe"
+msgstr ""
+
+msgctxt "image-layout"
+msgid "Wide"
+msgstr ""
+
+msgctxt "attribution"
+msgid "This instant answer was made by the %sDuckDuckHack%s Community."
+msgstr ""
+
+msgctxt "safe search"
+msgid "Moderate"
+msgstr ""
+
+msgctxt "mobile homepage banner"
+msgid "Select %sSearch Engine%s"
+msgstr ""
+
+msgctxt "setting"
+msgid "Off"
+msgstr ""
+
+msgid "Install DuckDuckGo Safari Extension?"
+msgstr ""
+
+msgctxt "showcase_spread"
+msgid "Help your friends and family join the Duck Side!"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Stay Informed"
+msgstr ""
+
+msgid "In the popup, click %sAdd%s"
+msgstr ""
+
+msgctxt "settings"
+msgid "See the %sURL Parameter Reference Page%s for more details"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Over %s in DuckDuckGo privacy donations."
+msgstr ""
+
+msgid "App"
+msgstr ""
+
+msgid "Related Topics"
+msgstr ""
+
+msgctxt "size"
+msgid "All Sizes"
+msgstr ""
+
+#. shown after the DuckDuckGo extension is installed
+msgctxt "welcome message"
+msgid "Encrypts connections when possible"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Click the %s icon in the top toolbar"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Welcome to the Duck Side!"
+msgstr ""
+
+msgctxt "static_page"
+msgid "About"
+msgstr ""
+
+msgid "Click %sAdd or change home page...%s"
+msgstr ""
+
+msgctxt "color"
+msgid "Teal"
+msgstr ""
+
+msgctxt "video-license"
+msgid "Any License"
+msgstr ""
+
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "%s days ago"
+msgstr ""
+
+msgid "Under %sOn startup%s, select %sHomepage%s and enter: https://duckduckgo.com"
+msgstr ""
+
+msgid "Malaysia"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Install DuckDuckGo"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Security Issue (Opens in New Tab)"
+msgstr ""
+
+msgctxt "maps_maps_module"
+msgid "Or did you mean:"
+msgstr ""
+
+msgid "Peru"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "Following us on Twitter"
+msgstr ""
+
+msgid "Click %sYes%s"
+msgstr ""
+
+msgid "Keep your search history private and minimize ad targeting."
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "No tracking, no ad targeting, just searching!"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Web Links"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Select your specific feedback"
+msgstr ""
+
+msgid "Vietnam"
+msgstr ""
+
+msgctxt "mobile homepage banner"
+msgid "Select %sSettings%s, then %sAdvanced settings%s"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "What brought you back today?"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "We don’t store your personal information. Ever."
+msgstr ""
+
+msgid "Tour"
+msgstr ""
+
+msgid "Mexico"
+msgstr ""
+
+msgid "Click the Search Engine Icon in the Address Bar."
+msgstr ""
+
+msgctxt "reasons-to-use-duckduckgo"
+msgid "We don't store your personal info."
+msgstr ""
+
+msgctxt "homepage ATB modal"
+msgid "Your data shouldn’t be for sale."
+msgstr ""
+
+msgid "Download file"
+msgstr ""
+
+msgid "More Themes"
+msgstr ""
+
+msgid "Greece"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Wikipedia Info"
+msgstr ""
+
+msgctxt "safe search"
+msgid "No explicit images or videos"
+msgstr ""
+
+msgid "Game ended"
+msgstr ""
+
+msgid "Denmark"
+msgstr ""
+
+msgid "Click %sOpen%s to download and open the DuckDuckGo Safari extension"
+msgstr ""
+
+msgctxt "showcase_aria_dropdown"
+msgid "Here are some things that we made that you might like."
+msgstr ""
+
+msgid "Click %sHere%s to add us as a search engine"
+msgstr ""
+
+msgid "In the menu at the top select %sTools%s > %sSettings%s"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "We're honored to have you on the Duck Side"
+msgstr ""
+
+msgid "Search only for %s?"
+msgstr ""
+
+msgctxt "spread_badge"
+msgid "Get your friends to switch and help us grow!"
+msgstr ""
+
+msgid "Privacy Crash Course"
+msgstr ""
+
+msgctxt "size"
+msgid "Small"
+msgstr ""
+
+msgctxt "mobile promotion on desktop"
+msgid "Visit %sDuckDuckGo.com%s on your tablet or phone and follow the provided instructions."
+msgstr ""
+
+msgctxt "settings"
+msgid "Suggest a pass phrase"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "No. Unless you deleted your settings, the settings file will still be there but we have no way of associating it with you."
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "You can do this by saving your settings under a different passphrase, optionally deleting the first set."
+msgstr ""
+
+msgctxt "maps_places"
+msgid "%s on %s"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Careers"
+msgstr ""
+
+msgid "Search domain %s"
+msgstr ""
+
+msgid "Japan"
+msgstr ""
+
+msgid "Try our homepage that never shows these messages:"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Menu"
+msgstr ""
+
+msgid "In the side menu select %sInternet Search%s"
+msgstr ""
+
+msgid "Set DuckDuckGo as your %sdefault search engine"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Only the settings that you have changed. They are detailed on the %sURL Parameters%s page."
+msgstr ""
+
+#. shown after the DuckDuckGo extension is installed
+msgctxt "welcome message"
+msgid "Blocks trackers on websites you visit"
+msgstr ""
+
+msgid "Dismiss"
+msgstr ""
+
+msgctxt "email newsletter"
+msgid "Enter your email address."
+msgstr ""
+
+msgctxt "showcase_app"
+msgid "Get Our App & Extension"
+msgstr ""
+
+msgid "Spain (ca)"
+msgstr ""
+
+msgid "Select %sDuckDuckGo%s and click %sAdd as default%s!"
+msgstr ""
+
+msgid "In partnership with"
+msgstr ""
+
+msgctxt "forecast"
+msgid "W"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "We Protect Your Privacy"
+msgstr ""
+
+msgid "Size:"
+msgstr ""
+
+msgid "Take Back Your Privacy!"
+msgstr ""
+
+msgid "Slovenia"
+msgstr ""
+
+msgid "Close window."
+msgstr ""
+
+msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
+msgstr ""
+
+msgid "Scroll down and find %sSearch in the address bar%s. Click on %sChange%s (or %sAdd new%s)"
+msgstr ""
+
+msgctxt "safe search"
+msgid "No adult content"
+msgstr ""
+
+msgid "Hong Kong"
+msgstr ""
+
+msgctxt "noresults"
+msgid "Try different keywords."
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "We don't store your search history or follow you around the web."
+msgstr ""
+
+msgid "Other Settings"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "What is the cloud save bookmarklet and how does it differ from the URL parameter bookmarklet?"
+msgstr ""
+
+msgid "Scroll down and click %sView advanced settings%s"
+msgstr ""
+
+msgctxt "attribution"
+msgid "Developer"
+msgstr ""
+
+msgid "Click OK."
+msgstr ""
+
+msgid "New Zealand"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "We don’t store your personal info. Ever."
+msgstr ""
+
+msgid "Region Setting"
+msgstr ""
+
+msgid "Korea"
+msgstr ""
+
+msgid "Enter %shttps://duckduckgo.com%s"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "Online article"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "In the browser, we then select four or five random words from that list, ensuring that it is at least 18-20 characters long."
+msgstr ""
+
+msgid "YouTube (owned by Google) does not let you watch videos anonymously. As such, watching YouTube videos here will be tracked by YouTube/Google."
+msgstr ""
+
+msgid "Slovakia"
+msgstr ""
+
+msgctxt "noresults"
+msgid "Try more general keywords."
+msgstr ""
+
+msgctxt "settings"
+msgid "Enter a pass phrase"
+msgstr ""
+
+msgid "Protect Your Privacy!"
+msgstr ""
+
+msgid "Games"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "How does it work?"
+msgstr ""
+
+msgctxt "noresults"
+msgid "Try fewer keywords."
+msgstr ""
+
+msgid "South Africa"
+msgstr ""
+
+msgid "Switzerland (it)"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Reset All Settings"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Escape The Filter Bubble"
+msgstr ""
+
+#. search for a place near the user's location
+msgctxt "vertical_map"
+msgid "Search Near My Location"
+msgstr ""
+
+msgid "Take back your privacy!"
+msgstr ""
+
+msgid "Including results for %s."
+msgstr ""
+
+msgctxt "mobile homepage banner"
+msgid "Select %sSearch engine%s, then %sOthers...%s"
+msgstr ""
+
+msgctxt "forecast"
+msgid "SE"
+msgstr ""
+
+msgid "Develop"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Say Goodbye To Google"
+msgstr ""
+
+msgid "%s mi"
+msgstr ""
+
+msgid "Prevent advertisers and corporations from tracking you across the Internet."
+msgstr ""
+
+msgid "Brazil"
+msgstr ""
+
+msgid "Switch to %s"
+msgstr ""
+
+msgid "Click %sAdd%s"
+msgstr ""
+
+msgid "Final"
+msgstr ""
+
+msgid "Click %s+%s!"
+msgstr ""
+
+msgid "In the drop down select %sDuckDuckGo%s!"
+msgstr ""
+
+msgctxt "additional"
+msgid "More"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Directions"
+msgstr ""
+
+msgctxt "safe search"
+msgid "Don't filter adult content"
+msgstr ""
+
+msgctxt "image-type"
+msgid "Animated GIF"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "What led you to DuckDuckGo?"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "Open Map"
+msgstr ""
+
+msgctxt "color"
+msgid "White"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgctxt "map-mode"
+msgid "Satellite"
+msgstr ""
+
+msgid "Get Involved"
+msgstr ""
+
+msgid "Not many results contain %s."
+msgstr ""
+
+msgid "If you want, select Home Page next to New windows and New tabs (open with)."
+msgstr ""
+
+msgid "Page %s"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "%s Billion Searches"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Share DuckDuckGo and help friends take their privacy back!"
+msgstr ""
+
+msgctxt "color"
+msgid "Orange"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "We do not have usernames and we don't store any personally identifiable information."
+msgstr ""
+
+msgctxt "open_in_third_party_app"
+msgid "Open in %s"
+msgstr ""
+
+msgctxt "attribution"
+msgid "Producer"
+msgstr ""
+
+msgid "Store"
+msgstr ""
+
+msgid "Portugal"
+msgstr ""
+
+msgctxt "noresults"
+msgid "Show web results"
+msgstr ""
+
+msgid "Dismiss forever"
+msgstr ""
+
+msgctxt "image-color"
+msgid "Black and White"
+msgstr ""
+
+msgctxt "maps_maps_module"
+msgid "View on Map"
+msgstr ""
+
+msgctxt "video-resolution"
+msgid "High Definition"
+msgstr ""
+
+msgctxt "install-extension"
+msgid "Don't see it? %s%s%sClick here to re-download%s"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Showing results from"
+msgstr ""
+
+msgctxt "reasons-to-use-duckduckgo"
+msgid "Take control of your personal data."
+msgstr ""
+
+msgctxt "feedback form"
+msgid "What did you like?"
+msgstr ""
+
+msgctxt "showcase_donations"
+msgid "%s in privacy donations!"
+msgstr ""
+
+msgid "%s blocked by safe search."
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "We save the settings file on Amazon S3 using the generated key as the name."
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "What information gets saved?"
+msgstr ""
+
+msgid "Keep in Touch"
+msgstr ""
+
+msgctxt "mobile homepage"
+msgid "Use DuckDuckGo Private Search"
+msgstr ""
+
+msgctxt "video-duration"
+msgid "Any Duration"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Phone Number"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "We don't store your personal info or track you. Ever."
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Switch to DuckDuckGo and take back your privacy!"
+msgstr ""
+
+msgctxt "showcase_aria_label"
+msgid "Check out the list of things that we've also made."
+msgstr ""
+
+msgid "Select %sDuckDuckGo%s!"
+msgstr ""
+
+msgid "Safe Search"
+msgstr ""
+
+msgid "Croatia"
+msgstr ""
+
+msgctxt "video-duration"
+msgid "Medium"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Discover shortcuts to go to search results on other sites."
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "No Region Selected"
+msgstr ""
+
+msgid "Safe search blocked some results for %s."
+msgstr ""
+
+msgid "Czech Republic"
+msgstr ""
+
+msgctxt "noresults"
+msgid "Make sure all words are spelled correctly."
+msgstr ""
+
+msgctxt "new user poll"
+msgid "Upgrading to full-time user"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Join Our Team!"
+msgstr ""
+
+msgid "Click on the %sSearch Providers%s under Add-on Types"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Learn how to search like the pros."
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "We don’t track you in or out of private browsing mode."
+msgstr ""
+
+msgid "Ireland"
+msgstr ""
+
+msgid "See more photos of %s"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "It is easier to remember four or five words than 10 random letters and numbers, and far more secure."
+msgstr ""
+
+msgid "Learn %sMore%s"
+msgstr ""
+
+msgid "Theme Changed"
+msgstr ""
+
+msgctxt "image-type"
+msgid "Photograph"
+msgstr ""
+
+msgid "Belgium (nl)"
+msgstr ""
+
+msgid "Search Options"
+msgstr ""
+
+msgctxt "ads"
+msgid "Report Ad"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Push 'Delete My Data'. This removes the data from the cloud, but it remains in your browser until you click on 'Reset all settings'"
+msgstr ""
+
+msgid "Click on the %sTools icon%s in the top-right of the browser"
+msgstr ""
+
+msgid "Grid mode disabled for this answer"
+msgstr ""
+
+msgid "Start Searching"
+msgstr ""
+
+msgid "View file"
+msgstr ""
+
+msgid "Make sure to check %s\"Make this my default search provider\"%s"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "How We Are Profitable"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Pick a specific problem"
+msgstr ""
+
+msgctxt "reasons-to-use-duckduckgo"
+msgid "We don't store your personal information."
+msgstr ""
+
+msgid "Click add."
+msgstr ""
+
+msgid "Norway"
+msgstr ""
+
+msgctxt "additional_info_at"
+msgid "More results"
+msgstr ""
+
+msgctxt "install-duckduckgo"
+msgid "%sClick %sContinue To Installation%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
+msgstr ""
+
+msgid "Use in Firefox"
+msgstr ""
+
+msgid "Under Search click the drop down and select %sDuckDuckGo%s"
+msgstr ""
+
+msgctxt "mobile homepage banner"
+msgid "Select %sSettings%s, then %sSearch Engine%s"
+msgstr ""
+
+msgid "More at"
+msgstr ""
+
+msgid "More Videos"
+msgstr ""
+
+msgid "More Links"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "We don't associate your IP address or browser fingerprint or any other information with the file."
+msgstr ""
+
+msgctxt "size"
+msgid "Wallpaper"
+msgstr ""
+
+msgid "Switch to the search engine that doesn't track you. Ever."
+msgstr ""
+
+msgid "Recent News"
+msgstr ""
+
+msgid "Finally, click %sAdd%s"
+msgstr ""
+
+msgid "Germany"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "Your response is 100% anonymous."
+msgstr ""
+
+msgid "Under On startup select %sOpen a specific page or set of pages%s"
+msgstr ""
+
+msgid "More at %s "
+msgstr ""
+
+msgid "Taiwan"
+msgstr ""
+
+msgid "Congratulations!"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "We cannot reverse the passphrase key generation."
+msgstr ""
+
+msgctxt "image-color"
+msgid "All Colors"
+msgstr ""
+
+msgctxt "mobile promotion on desktop"
+msgid "OK, got it!"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "Welcome back!"
+msgstr ""
+
+msgctxt "settings"
+msgid "Cookie Data:"
+msgstr ""
+
+msgctxt "forecast"
+msgid "NE"
+msgstr ""
+
+msgid "You're now searching with privacy. %sGet tips to reduce your footprint even more."
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Send feedback for this result:"
+msgstr ""
+
+#. search for a place within the map area currently shown in expanded map
+msgctxt "vertical_map"
+msgid "Search Current Map Area"
+msgstr ""
+
+msgid "Click the %sGeneral%s tab."
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Address"
+msgstr ""
+
+msgid "DuckDuckGo Support Center"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Your passphrase never leaves the browser, only the key and the settings file associated with it."
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgctxt "settings"
+msgid "Suggest different phrase"
+msgstr ""
+
+msgctxt "video-duration"
+msgid "Show videos of any length"
+msgstr ""
+
+msgid "Spain"
+msgstr ""
+
+msgctxt "forecast"
+msgid "E"
+msgstr ""
+
+msgctxt "setting"
+msgid "Show Bookmarklet and Settings Data"
+msgstr ""
+
+msgid "Switzerland (fr)"
+msgstr ""
+
+msgctxt "mobile homepage banner"
+msgid "Open %sSettings%s"
+msgstr ""
+
+msgid "Israel"
+msgstr ""
+
+msgctxt "newsletter email collection"
+msgid "Your email address will not be shared, %sor associated with anonymous searches. [%sExample message%s]"
+msgstr ""
+
+msgid "Click %ssettings/hamburger icon %s on the Chrome toolbar (top right)."
+msgstr ""
+
+msgid "Click %sChange Search Settings%s in the drop down"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Open 24 hours"
+msgstr ""
+
+msgid "Click this button to get started:"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Pick a category"
+msgstr ""
+
+msgid "!Bang Search Shortcuts"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Cloud Save Enabled"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgctxt "visible"
+msgid "Showing"
+msgstr ""
+
+msgctxt "showcase_privacy"
+msgid "Protect Your Devices"
+msgstr ""
+
+msgctxt "install-duckduckgo"
+msgid "%sClick %sAllow%sClick %sAdd%sCheck %sAllow%s, then click %sOkay%s"
+msgstr ""
+
+msgid "Under %sSTARTUP > Homepage%s enter: https://duckduckgo.com"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Send feedback for:"
+msgstr ""
+
+msgid "Please select a region"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Already a fan?"
+msgstr ""
+
+msgid "Read More"
+msgstr ""
+
+msgid "Under %sOpen with%s select %sA specific page or pages%s"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "How do I change my passphrase?"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "I forgot my passphrase. Can you recover it?"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Something went wrong saving to the server, please try again."
+msgstr ""
+
+msgctxt "setting"
+msgid "On"
+msgstr ""
+
+msgctxt "showcase_app"
+msgid "Protect your data on every device."
+msgstr ""
+
+msgid "Turn off:"
+msgstr ""
+
+msgid "Hit %sReturn%s on your keyboard to %ssave DuckDuckGo to the list. %sThen click %sMake Default%s"
+msgstr ""
+
+msgctxt "mobile homepage banner"
+msgid "Select %s%s%s, then %sSearch Engine%s"
+msgstr ""
+
+msgctxt "color"
+msgid "Black"
+msgstr ""
+
+msgid "Don't see DuckDuckGo in the list?"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Check out our privacy device guides."
+msgstr ""
+
+msgid "Click on the magnifying glass in the search box at the top right"
+msgstr ""
+
+msgid "Your browser indicates if you've visited this link"
+msgstr ""
+
+msgctxt "settings"
+msgid "By default settings are stored in non-personal browser cookies (in your browser). You can use Anonymous Cloud Save to store your settings in a more permanent way (on a remote server in the cloud). No personally identifiable information will be stored in the cloud, and your pass phrase will never leave your browser."
+msgstr ""
+
+msgid "Romania"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Block Trackers"
+msgstr ""
+
+msgid "On Mac, %sClick Maxthon > Preferences%s, On Windows, %sClick the %s icon > Settings%s"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Maps / Location Info"
+msgstr ""
+
+msgctxt "settings"
+msgid "This will erase all settings. Continue?"
+msgstr ""
+
+msgid "Start searching!"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+#. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
+msgctxt "published dates for organic results"
+msgid "1 day ago"
+msgstr ""
+
+msgid "Singapore"
+msgstr ""
+
+msgid "Any Time"
+msgstr ""
+
+msgid "Score"
+msgstr ""
+
+msgid "After it downloads, locate the extension file and double-click it to install"
+msgstr ""
+
+msgid "Netherlands"
+msgstr ""
+
+msgctxt "new tab page"
+msgid "Enable Most Visited Sites"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "You can share your settings among computers and browsers."
+msgstr ""
+
+msgid "%sRight click%s in the search bar"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Learn how to protect your privacy."
+msgstr ""
+
+msgctxt "install-duckduckgo"
+msgid "Click %sAllow%s, then %sAdd%s."
+msgstr ""
+
+msgid "Select %sDuckDuckGo%s under the%sDefault Search Engine%s section"
+msgstr ""
+
+msgid "Avoid eavesdropping and enhance wi-fi security."
+msgstr ""
+
+msgctxt "new user poll"
+msgid "Please select one option."
+msgstr ""
+
+msgctxt "settings"
+msgid "This will reset your saved settings to default values. Continue?"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show pass phrase"
+msgstr ""
+
+msgid "Click %sHere%s to download the DuckDuckGo extension"
+msgstr ""
+
+msgid "Select %sDuckDuckGo%s and click %sSet as default%s"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Pass phrase not found"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Date Filters"
+msgstr ""
+
+msgctxt "showcase_privacy"
+msgid "Check out our privacy device guides."
+msgstr ""
+
+msgid "After it downloads and opens, click %sInstall%s"
+msgstr ""
+
+msgid "Argentina"
+msgstr ""
+
+msgid "Select %sOpera > Preferences%s (on Mac) or %sOpera > Options%s (on Windows)"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgctxt "install-extension"
+msgid "2. Double-click %sduckduckgo.safariextz%s"
+msgstr ""
+
+msgctxt "mobile homepage banner"
+msgid "Open %sMenu%s"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Enter a new passphrase and click 'Save Settings' This will save your data under your new passphrase."
+msgstr ""
+
+msgid "If you don't see %sDuckDuckGo,%s you will need to add it to the list of %sOther Search Engines%s"
+msgstr ""
+
+msgid "Find %sDuckDuckGo%s and click%sMake default%s"
+msgstr ""
+
+msgid "Sweden"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "You can store several sets of settings for different purposes."
+msgstr ""
+
+msgid "Selected %sDuckDuckGo%s"
+msgstr ""
+
+msgctxt "video-duration"
+msgid "Less than 4 minutes"
+msgstr ""
+
+msgid "Filter by date"
+msgstr ""
+
+msgid "Under %sSearch%s section, click %sManage search engines...%s"
+msgstr ""
+
+msgctxt "video-license"
+msgid "YouTube Standard"
+msgstr ""
+
+msgctxt "color"
+msgid "Brown"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Pass phrase is already taken."
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "No tracking, no ad targeting, just searching."
+msgstr ""
+
+msgid "Community"
+msgstr ""
+
+msgid "More Products"
+msgstr ""
+
+msgid "Who We Are"
+msgstr ""
+
+msgid "Australia"
+msgstr ""
+
+msgid "Copy &amp; paste %sabout:preferences#search%s into the address bar"
+msgstr ""
+
+msgid "Lithuania"
+msgstr ""
+
+msgid "Philippines"
+msgstr ""
+
+msgctxt "showcase_tracking"
+msgid "Learn why reducing tracking is important."
+msgstr ""
+
+msgid "Malaysia (en)"
+msgstr ""
+
+msgid "Privacy Blog"
+msgstr ""
+
+msgid "for"
+msgstr ""
+
+msgid "Add to Home Screen"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Switch to DuckDuckGo"
+msgstr ""
+
+msgid "United Kingdom"
+msgstr ""
+
+msgctxt "size"
+msgid "Medium"
+msgstr ""
+
+msgid "More Images"
+msgstr ""
+
+msgid "Click on the %smagnifying glass%s in the search bar"
+msgstr ""
+
+msgid "See Also"
+msgstr ""
+
+msgid "Select %sSettings%s from the drop-down menu."
+msgstr ""
+
+msgctxt "image-type"
+msgid "Transparent"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Cloud Save FAQ"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "This has a few benefits:"
+msgstr ""
+
+msgctxt "forecast"
+msgid "S"
+msgstr ""
+
+msgid "Click on %sChange Search Settings%s in the dropdown menu"
+msgstr ""
+
+msgid "Recipes"
+msgstr ""
+
+msgid "Switzerland (de)"
+msgstr ""
+
+msgid "Enter the following details: %sName%s: DuckDuckGo%s URL%s: %s Alias%s: d%s"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Privacy in Your Inbox"
+msgstr ""
+
+msgctxt "forecast"
+msgid "NW"
+msgstr ""
+
+msgid "Beta"
+msgstr ""
+
+msgid "Watch on YouTube"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgctxt "settings"
+msgid "Save Cloud Settings"
+msgstr ""
+
+msgid "Search Results"
+msgstr ""
+
+msgctxt "settings"
+msgid "Cloud Save Bookmarklet URL:"
+msgstr ""
+
+msgctxt "color"
+msgid "Gray"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "You're in control. Customize the look-and-feel of DuckDuckGo."
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Show your DuckDuckGo pride with t-shirts, stickers, & more."
+msgstr ""
+
+msgid "Click to expand"
+msgstr ""
+
+msgid "Click %sOK%s in the popup. %sNOTE%s: If OK button is disabled, it was already added. Click %sCancel%s and proceed to the next step."
+msgstr ""
+
+msgctxt "image-color"
+msgid "Color Only"
+msgstr ""
+
+msgid "Click to collapse"
+msgstr ""
+
+msgid "Feedback"
+msgstr ""
+
+msgid "Press %sMenu > Add to homescreen > Add%s!"
+msgstr ""
+
+msgid "Select %sEdit Search Engines...%sin the dropdown"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Send feedback"
+msgstr ""
+
+msgid "View on %s"
+msgstr ""
+
+msgctxt "new tab page"
+msgid "Your browser provides the list of most-visited sites. DuckDuckGo never has access to this data."
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Phone"
+msgstr ""
+
+msgid "Watch Here"
+msgstr ""
+
+msgctxt "showcase_newsletter"
+msgid "Privacy in Your Inbox"
+msgstr ""
+
+msgid "Clear Region"
+msgstr ""
+
+msgid "Drag %sThis Button%s on top of the home icon:"
+msgstr ""
+
+msgid "Why Privacy"
+msgstr ""
+
+msgid "In the popup, check %sMake this my default search provider%s"
+msgstr ""
+
+msgctxt "Report image modal"
+msgid "Report this image"
+msgstr ""
+
+msgid "Load More"
+msgstr ""
+
+msgctxt "mobile homepage banner"
+msgid "Select %sSettings%s"
+msgstr ""
+
+msgid "No More Photos"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Sorry, no results here."
+msgstr ""
+
+msgid "Add DuckDuckGo to %s"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Settings"
+msgstr ""
+
+msgctxt "forecast"
+msgid "SW"
+msgstr ""
+
+msgctxt "safe search"
+msgid "Strict"
+msgstr ""
+
+msgid "Results"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "YouTube Privacy Warning"
+msgstr ""
+
+msgctxt "color"
+msgid "Green"
+msgstr ""
+
+msgctxt "forecast"
+msgid "N"
+msgstr ""
+
+msgctxt "video-duration"
+msgid "Short"
+msgstr ""
+
+msgid "More Recipes"
+msgstr ""
+
+msgctxt "made_by"
+msgid "by %s"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Help Spread DuckDuckGo"
+msgstr ""
+
+msgid "Estonia"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Thank you."
+msgstr ""
+
+msgctxt "Lock icon next to HTTP search result"
+msgid "That means information sent between your device and the webpage behind this link is at increased risk of being intercepted by a third party. In rare cases this includes passwords, or payment details."
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Call"
+msgstr ""
+
+msgctxt "video-resolution"
+msgid "Standard Definition"
+msgstr ""
+
+msgid "Filter Options"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "We've got some more links for you!"
+msgstr ""
+
+msgid "Under %sOn startup%s, click %sOpen a specific page%s then click %sSet Pages%s."
+msgstr ""
+
+msgid "Select %sPreferences%s."
+msgstr ""
+
+msgid "Private Search"
+msgstr ""
+
+msgid "Italy"
+msgstr ""
+
+msgctxt "size"
+msgid "Large"
+msgstr ""
+
+msgid "As per our privacy policy, we do not collect or share any personal information ourselves. All of this privacy protection happens on your device."
+msgstr ""
+
+msgid "Go to Search Engine."
+msgstr ""
+
+msgctxt "video-license"
+msgid "Creative Commons"
+msgstr ""
+
+msgid "Help Spread Privacy"
+msgstr ""
+
+msgid "Hungary"
+msgstr ""
+
+msgctxt "mobile homepage banner"
+msgid "Select %sSettings%s, then %sDefault search engine%s"
+msgstr ""
+
+msgid "What is this?"
+msgstr ""
+
+msgctxt "access_song"
+msgid "Get this song on:"
+msgstr ""
+
+msgid "Click on %sBrowser%s in the sidebar"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Each time you ask for a passphrase suggestion, we get a reasonably large list of random words from the DuckDuckGo servers."
+msgstr ""
+
+msgctxt "video-duration"
+msgid "Long"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Shortcuts to other sites to search off DuckDuckGo"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgctxt "video"
+msgid "Preview"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Learn About Bangs"
+msgstr ""
+
+msgctxt "install-duckduckgo"
+msgid "Click %sAdd Extension%s."
+msgstr ""
+
+msgid "permanently"
+msgstr ""
+
+msgid "India"
+msgstr ""
+
+msgid "Ad"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Back to search"
+msgstr ""
+
+msgid "Click the Expand Icon."
+msgstr ""
+
+msgid "Add DuckDuckGo as a search engine"
+msgstr ""
+
+msgid "Click %sEdit > Preferences%s (on Windows) %sSeaMonkey > Preferences%s (on Mac)"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Enter your pass phrase to load your settings:"
+msgstr ""
+
+msgid "Data Privacy Day 2018"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "We use feedback like this to improve DuckDuckGo. It really helps."
+msgstr ""
+
+msgid "All Places"
+msgstr ""
+
+msgid "Click the magnifying glass in the search box (at the top of the browser)"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Get Started at Duck.com"
+msgstr ""
+
+msgid "Anywhere"
+msgstr ""
+
+msgid "Open Settings"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgctxt "frontpage"
+msgid "%sHelp Spread DuckDuckGo!%s"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Hours"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "We don't track you, so we could use your help telling us what convinced you to try us out today:"
+msgstr ""
+
+msgid "Reddit"
+msgstr ""
+
+msgid "Under %sSearch in the address bar with%s select %sAdd New%s"
+msgstr ""
+
+msgctxt "image-layout"
+msgid "Tall"
+msgstr ""
+
+msgctxt "new tab page"
+msgid "Hide Most Visited Sites"
+msgstr ""
+
+msgctxt "image-layout"
+msgid "All Layouts"
+msgstr ""
+
+msgctxt "attribution"
+msgid "Credits"
+msgstr ""
+
+msgid "Cloud Save"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "Trying DuckDuckGo again"
+msgstr ""
+
+msgctxt "expand_text"
+msgid "Show Less"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Search Box"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Custom"
+msgstr ""
+
+msgid "Fill in the last form field with %s"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "Type %sduckduckgo.com%s in the %ssecond form field"
+msgstr ""
+
+msgctxt "frontpage"
+msgid "%sLearn More%s."
+msgstr ""
+
+msgctxt "install-extension"
+msgid "1. Open %sDownloads%s"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Passphrases cannot feasibly be reverse engineered from a key"
+msgstr ""
+
+msgid "Select %sSettings%s"
+msgstr ""
+
+msgctxt "reasons-to-use-duckduckgo"
+msgid "We don't track you, including private browsing mode."
+msgstr ""
+
+msgid "Delete my data"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Optional"
+msgstr ""
+
+msgctxt "Report image modal"
+msgid "Child sexual abuse"
+msgstr ""
+
+msgctxt "settings"
+msgid "Bookmarklet URL:"
+msgstr ""
+
+msgctxt "color"
+msgid "Blue"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "How does passphrase generation work?"
+msgstr ""
+
+msgid "Set as Default Search Engine"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Other search engines track your searches even when you’re in private browsing mode. We don’t track you &mdash; period."
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Select %sCustom%s and enter %shttps://duckduckgo.com%s in the input field"
+msgstr ""
+
+msgctxt "settings"
+msgid "Settings in JSON:"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "DuckDuckGo does not ever know your passphrase."
+msgstr ""
+
+msgid "Showing results excluding"
+msgstr ""
+
+msgctxt "settings"
+msgid "Hide pass phrase"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Ad is suspicious"
+msgstr ""
+
+msgid "United States (es)"
+msgstr ""
+
+msgctxt "color"
+msgid "Red"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "We don’t store your search history. We therefore have nothing to sell to advertisers that track you across the Internet."
+msgstr ""
+
+msgid "Click on the %sellipsis icon%s in the toolbar"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Open Expanded Map"
+msgstr ""
+
+msgid "Indonesia"
+msgstr ""
+
+msgid "About Us"
+msgstr ""
+
+msgid "Extensions & More"
+msgstr ""
+
+msgid "Privacy Essentials"
+msgstr ""
+
+msgid "Select %sManage add-ons%s from the dropdown menu"
+msgstr ""
+
+msgid "Poland"
+msgstr ""
+
+msgid "Press Kit"
+msgstr ""
+
+msgid "Click %sUse current pages%s then %sClick OK%s."
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Ad is malware"
+msgstr ""
+
+msgid "Latvia"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Choose a unique pass phrase for your settings:"
+msgstr ""
+
+msgid "News Articles"
+msgstr ""
+
+#. shown after the DuckDuckGo extension is installed
+msgctxt "welcome message"
+msgid "Lets you search anonymously with DuckDuckGo"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Cloud Save lets you save your settings more permanently by entering a passphrase. It is entirely optional."
+msgstr ""
+
+msgctxt "mobile promotion on desktop"
+msgid "Use DuckDuckGo private search on your iPad, iPhone, or Android!"
+msgstr ""
+
+msgid "Turkey"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "Friend or family"
+msgstr ""
+
+msgctxt "expand_text"
+msgid "Show More"
+msgstr ""
+
+msgid "Click on %sSet as Default%s towards the bottom"
+msgstr ""
+
+msgid "Current Region:"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "No results"
+msgstr ""
+
+msgid "Change Region"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Feedback Sent"
+msgstr ""
+
+msgctxt "color"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Other"
+msgstr ""
+
+msgctxt "frontpage"
+msgid "The search engine that doesn't track you."
+msgstr ""
+
+msgctxt "color"
+msgid "Purple"
+msgstr ""
+
+msgid "Type %sDuckDuckGo%s in the first %sform field"
+msgstr ""
+
+msgctxt "settings"
+msgid "Save your settings anonymously to the cloud"
+msgstr ""
+
+msgid "Select %sUse this webpage as your only home page%s (or one of the other options if you prefer)"
+msgstr ""
+
+msgid "Chile"
+msgstr ""
+
+msgctxt "homepage ATB modal"
+msgid "At DuckDuckGo, we agree."
+msgstr ""
+
+msgctxt "video-duration"
+msgid "Between 4 and 20 minutes"
+msgstr ""
+
+msgid "Select %sDuckDuckGo%s in the list of search providers"
+msgstr ""
+
+msgid "Under %sSearch Settings%s select %sDuckDuckGo%s"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "The benefit of this over using the URL parameters bookmarklet is that when you change settings, they will automatically be saved in the cloud."
+msgstr ""
+
+msgid "Catalonia"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Get to DuckDuckGo faster. Share duck.com with your friends."
+msgstr ""
+
+msgctxt "feedback form"
+msgid "What could be better?"
+msgstr ""
+
+msgid "Click the magnifying glass in the search bar"
+msgstr ""
+
+msgid "Clear All"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Read about how Google influences what people click."
+msgstr ""
+
+msgid "Colombia"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "New browser or computer"
+msgstr ""
+
+msgid "%s km"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Learn how you can free yourself from Google for good."
+msgstr ""
+
+msgid "Shopping"
+msgstr ""
+
+msgid "Don't see the checkbox? %sFollow these steps%s."
+msgstr ""
+
+msgctxt "forecast"
+msgid "Humidity"
+msgstr ""
+
+msgid "Add to %s"
+msgstr ""
+
+msgid "Past Day"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Even if you could do that, there is no point since all the information is there in the open, unencrypted, provided you know the key."
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Cloud Save discussion on duck.co"
+msgstr ""
+
+msgctxt "showcase_spread"
+msgid "Spread DuckDuckGo"
+msgstr ""
+
+msgid "Saudi Arabia"
+msgstr ""
+
+msgctxt "reasons-to-use-duckduckgo"
+msgid "Keep your search history private."
+msgstr ""
+
+msgid "Set as Homepage"
+msgstr ""
+
+msgid "Canada (fr)"
+msgstr ""
+
+msgid "United States"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "We don’t follow you around with ads."
+msgstr ""
+
+msgid "Austria"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Click %sSafari%s in the top menu (On Windows, click the %sgears icon%s in the top right)"
+msgstr ""
+
+msgctxt "homepage onboarding"
+msgid "Our privacy policy is simple: we don’t collect or share any of your personal information."
+msgstr ""
+
+msgid "Bulgaria"
+msgstr ""
+
+msgid "Load Settings"
+msgstr ""
+
+msgid "Where it says Homepage click %sSet to Current Page%s."
+msgstr ""
+
+msgid "Open a new tab or window"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Please enter a pass phrase"
+msgstr ""
+
+msgid "Belgium (fr)"
+msgstr ""
+
+msgid "Philippines (tl)"
+msgstr ""
+
+msgctxt "image-type"
+msgid "Clipart"
+msgstr ""
+
+msgid "Get Web links"
+msgstr ""
+
+msgid "Encrypt Connections"
+msgstr ""
+
+msgctxt "maps_places"
+msgid "Choose service"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Protect Your Devices"
+msgstr ""
+
+msgctxt "Lock icon next to HTTP search result"
+msgid "This webpage does not use a secure, encrypted, connection (HTTPS)."
+msgstr ""
+
+msgid "Save Settings"
+msgstr ""
+
+msgctxt "maps_maps_module"
+msgid "Get Directions"
+msgstr ""
+
+msgid "Indonesia (en)"
+msgstr ""
+
+msgid "App and Extension"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Learn how we're dedicated to keeping you safe online."
+msgstr ""
+
+msgctxt "new user poll"
+msgid "New to DuckDuckGo?"
+msgstr ""
+
+msgid "See Photos"
+msgstr ""
+
+msgid "Select %sDuckDuckGo%s in the Default Search Engine drop down"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Custom %s"
+msgstr ""
+
+msgctxt "noresults"
+msgid "No %s found for %s%s%s."
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Visit Our Store"
+msgstr ""
+
+msgid "Filter by region"
+msgstr ""
+
+msgctxt "Report image modal"
+msgid "Explicit content"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Advertisements"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "We get a ton of searches, and all of them are anonymous."
+msgstr ""
+
+msgid "No Tracking. Ever."
+msgstr ""
+
+msgid "Clear your cookies often?"
+msgstr ""
+
+msgid "More Related Topics"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Browser Preferred Language"
+msgstr ""
+
+msgid "Showing results without %s."
+msgstr ""
+
+msgid "temporarily"
+msgstr ""
+
+msgid "Click on %sSettings%s in the dropdown"
+msgstr ""
+
+msgctxt "install-duckduckgo"
+msgid "Almost there!"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Load Cloud Settings"
+msgstr ""
+
+msgctxt "new user poll"
+msgid "No thanks."
+msgstr ""
+
+msgid "You're now searching with privacy!"
+msgstr ""
+
+msgctxt "spread_badge"
+msgid "Love DuckDuckGo?"
+msgstr ""
+
+msgid "Check %sMake this the current search engine%s"
+msgstr ""
+
+msgid "Get App"
+msgstr ""
+
+msgid "Save and Exit"
+msgstr ""
+
+msgid "China"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "The world needs an alternative to the collect-it-all business model."
+msgstr ""
+
+msgctxt "video-duration"
+msgid "More than 20 minutes"
+msgstr ""
+
+msgctxt "welcome message"
+msgid "You now have the DuckDuckGo extension!"
+msgstr ""
+
+msgid "Legal"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "We don't track you, but others do."
+msgstr ""
+
+msgctxt "reasons-to-use-duckduckgo"
+msgid "We don't follow you around with ads."
+msgstr ""
+
+msgctxt "new user poll"
+msgid "Yes, new user!"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Fine-tune Your Search"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Ad is irrelevant"
+msgstr ""
+
+msgid "Remember my choice (this can be changed in %sSettings%s)"
+msgstr ""
+
+msgctxt "cloudsave"
+msgid "Is deleted data really deleted?"
+msgstr ""
+
+msgid "Tomorrow"
+msgstr ""
+
+msgctxt "forecast"
+msgid "Wind"
+msgstr ""
+
+msgid "More Places"
+msgstr ""
+
+msgctxt "size"
+msgid "Extra Large"
+msgstr ""
+
+msgid "Use"
+msgstr ""
+
+msgid "These browser permissions are used to add privacy protection on websites you visit by blocking hidden trackers, encrypting connections where possible, and by making DuckDuckGo your default search engine."
+msgstr ""
+
+msgid "Select %sOpera > Preferences%s (on Mac) or %sMenu > Settings%s (on Windows)"
+msgstr ""
+
+msgid "Past Month"
+msgstr ""
+
+msgctxt "reasons-to-use-duckduckgo"
+msgid "We don't track you. Ever."
+msgstr ""
+
+msgctxt "showcase_newsletter"
+msgid "Stay protected and informed with our privacy newsletters."
+msgstr ""
+
+msgctxt "reasons-to-use-duckduckgo"
+msgid "Block advertising trackers."
+msgstr ""
+
+msgctxt "noresults"
+msgid "Suggestions:"
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Ad is inappropriate"
+msgstr ""
+
+msgid "For region-centric results"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Help us raise the standard of trust online."
+msgstr ""
+
+msgctxt "feedback form"
+msgid "Please specify..."
+msgstr ""
+

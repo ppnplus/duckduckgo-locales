@@ -1,0 +1,536 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "settings"
+msgid "Open Links in a New Tab"
+msgstr ""
+
+msgctxt "settings"
+msgid "Opens results in new windows/tabs"
+msgstr ""
+
+msgctxt "settings"
+msgid "Privacy Newsletter"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show occasional reminders to sign up for the DuckDuckGo privacy newsletter"
+msgstr ""
+
+msgctxt "settings"
+msgid "Font"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes the font across the entire site"
+msgstr ""
+
+msgctxt "settings"
+msgid "Previous Region"
+msgstr ""
+
+msgctxt "settings"
+msgid "Stores the previous region that was set"
+msgstr ""
+
+msgctxt "settings"
+msgid "Page Width"
+msgstr ""
+
+msgctxt "settings"
+msgid "Controls the width of the search box and results"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Normal"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Wide"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Super Wide"
+msgstr ""
+
+msgctxt "settings"
+msgid "Site Icons"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show favicons for each result"
+msgstr ""
+
+msgctxt "settings"
+msgid "Help Improve DuckDuckGo"
+msgstr ""
+
+msgctxt "settings"
+msgid "It's okay to (very infrequently) ask me about my experience using DuckDuckGo"
+msgstr ""
+
+msgctxt "settings"
+msgid "Safe Search"
+msgstr ""
+
+msgctxt "settings"
+msgid "Omits objectionable (mostly adult) material"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Moderate"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Strict"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Off"
+msgstr ""
+
+msgctxt "settings"
+msgid "Mobile Instructions (not displayed on settings page)"
+msgstr ""
+
+msgctxt "settings"
+msgid "Auto-Suggest"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show suggestions under the search box as you type"
+msgstr ""
+
+msgctxt "settings"
+msgid "Center Alignment"
+msgstr ""
+
+msgctxt "settings"
+msgid "Center align the results page (instead of left aligned)"
+msgstr ""
+
+msgctxt "settings"
+msgid "Location"
+msgstr ""
+
+msgctxt "settings"
+msgid "We don't store your location. It remains only on your device. %sInfo%s"
+msgstr ""
+
+msgctxt "settings"
+msgid "Infinite Scroll"
+msgstr ""
+
+msgctxt "settings"
+msgid "Loads more results when scrolling"
+msgstr ""
+
+msgctxt "settings"
+msgid "Prompt me to anonymously use browser location for better results."
+msgstr ""
+
+msgctxt "settings"
+msgid "Result URL Color"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes the color of the result URL"
+msgstr ""
+
+msgctxt "settings"
+msgid "Region"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes results to be region specific"
+msgstr ""
+
+msgctxt "settings"
+msgid "Background Color"
+msgstr ""
+
+msgctxt "settings"
+msgid "Change the background color across the entire site"
+msgstr ""
+
+msgctxt "settings"
+msgid "Result Title Underline"
+msgstr ""
+
+msgctxt "settings"
+msgid "Underline the title link for each result"
+msgstr ""
+
+msgctxt "settings"
+msgid "Result URLs above snippet"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show the Result URL line above the snippet text"
+msgstr ""
+
+msgctxt "settings"
+msgid "Result Hover, Module, and Dropdown Background Color"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes the result hover, module, and dropdown background color"
+msgstr ""
+
+msgctxt "settings"
+msgid "Page #'s"
+msgstr ""
+
+msgctxt "settings"
+msgid "Page Break #'s"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show page numbers at result page breaks"
+msgstr ""
+
+msgctxt "settings"
+msgid "Page Break Lines"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show horizontal lines at result page breaks"
+msgstr ""
+
+msgctxt "settings"
+msgid "Welcome Message"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show welcome message on top of the search results page"
+msgstr ""
+
+msgctxt "settings"
+msgid "Install DuckDuckGo"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show links to instructions for how to add DuckDuckGo to your browser"
+msgstr ""
+
+msgctxt "settings"
+msgid "Result Visited Check Mark"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes whether the visited check mark is visible"
+msgstr ""
+
+msgctxt "settings"
+msgid "Header Behavior"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes how much space the header takes up and what happens to it when you scroll"
+msgstr ""
+
+msgctxt "settings"
+msgid "Infinite Scroll for Images"
+msgstr ""
+
+msgctxt "settings"
+msgid "Loads more image results when scrolling"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show sign up form for the DuckDuckGo privacy newsletter"
+msgstr ""
+
+msgctxt "settings"
+msgid "Redirect (when necessary)"
+msgstr ""
+
+msgctxt "settings"
+msgid "In some older browsers it's necessary to redirect your clicks through our server to prevent Search Leakage. %sMore Info%s."
+msgstr ""
+
+msgctxt "settings"
+msgid "Language"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes the language across the entire site"
+msgstr ""
+
+msgctxt "settings"
+msgid "ATB Dismiss"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show occasional reminders to add DuckDuckGo to your browser"
+msgstr ""
+
+msgctxt "settings"
+msgid "GET requests"
+msgstr ""
+
+msgctxt "settings"
+msgid "Search queries are included in URL (if off, searches will use POST requests)"
+msgstr ""
+
+msgctxt "settings"
+msgid "Map Rendering"
+msgstr ""
+
+msgctxt "settings"
+msgid "The rendering method to use for interactive maps"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Image Tiles"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Best Available"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Not Set"
+msgstr ""
+
+msgctxt "settings"
+msgid "HTTPS"
+msgstr ""
+
+msgctxt "settings"
+msgid "Use encrypted version of the site"
+msgstr ""
+
+msgctxt "settings"
+msgid "Search Button Background"
+msgstr ""
+
+msgctxt "settings"
+msgid "Shows the search button background"
+msgstr ""
+
+msgctxt "settings"
+msgid "Seach Visibility"
+msgstr ""
+
+msgctxt "settings"
+msgid "Hides search term from being shown in browser tab/history"
+msgstr ""
+
+msgctxt "settings"
+msgid "Header Color"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes the header color across the entire site"
+msgstr ""
+
+msgctxt "settings"
+msgid "General"
+msgstr ""
+
+msgctxt "settings"
+msgid "Theme"
+msgstr ""
+
+msgctxt "settings"
+msgid "Appearance"
+msgstr ""
+
+msgctxt "settings"
+msgid "Page Appearance"
+msgstr ""
+
+msgctxt "settings"
+msgid "Header Appearance"
+msgstr ""
+
+msgctxt "settings"
+msgid "Results Appearance"
+msgstr ""
+
+msgctxt "settings"
+msgid "Privacy"
+msgstr ""
+
+msgctxt "settings"
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgctxt "settings"
+msgid "Enables keyboard shortcuts on the site"
+msgstr ""
+
+msgctxt "settings"
+msgid "Advertisements"
+msgstr ""
+
+msgctxt "settings"
+msgid "If you still want to support us, %shelp spread DuckDuckGo%s"
+msgstr ""
+
+msgctxt "settings"
+msgid "Instant Answers"
+msgstr ""
+
+msgctxt "settings"
+msgid "Automatically open relevant Instant Answers"
+msgstr ""
+
+msgctxt "settings"
+msgid "Result Description Color"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes the color of the result description text"
+msgstr ""
+
+msgctxt "settings"
+msgid "Homepage Privacy Tips"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show the privacy benefits of using DuckDuckGo on the homepage"
+msgstr ""
+
+msgctxt "settings"
+msgid "Units of Measure"
+msgstr ""
+
+msgctxt "settings"
+msgid "Preferred units of measure"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "US based (Pounds, Feet, Fahrenheit)"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "No Preference (Default)"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Metric (Kilograms, Meters, Celsius)"
+msgstr ""
+
+msgctxt "theme"
+msgid "Terminal"
+msgstr ""
+
+msgctxt "theme"
+msgid "Dark"
+msgstr ""
+
+msgctxt "theme"
+msgid "Basic"
+msgstr ""
+
+msgctxt "theme"
+msgid "Gray"
+msgstr ""
+
+msgctxt "theme"
+msgid "Contrast"
+msgstr ""
+
+msgctxt "theme"
+msgid "Default"
+msgstr ""
+
+msgctxt "settings"
+msgid "Result Title Color"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes the title link color for each result"
+msgstr ""
+
+msgctxt "settings"
+msgid "ATB related (not displayed on settings page)"
+msgstr ""
+
+msgctxt "settings"
+msgid "Result Full URLs"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show the full URL for each result"
+msgstr ""
+
+msgctxt "settings"
+msgid "Result Visited Title Color"
+msgstr ""
+
+msgctxt "settings"
+msgid "Font Size"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes the font size across the entire site"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Large"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Largest"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Small"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Larger"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Medium"
+msgstr ""
+
+msgctxt "settings"
+msgid "Video Playback"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes what happens when you click on a video thumbnail"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Always play on DuckDuckGo"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Prompt me"
+msgstr ""
+
+msgctxt "settingsvalue"
+msgid "Open on third-party site"
+msgstr ""
+
+msgctxt "settings"
+msgid "Open Directions in..."
+msgstr ""
+
+msgctxt "settings"
+msgid "Which third party source to use for directions"
+msgstr ""
+
+msgctxt "settings"
+msgid "New Tab Page Most Visited Sites"
+msgstr ""
+
+msgctxt "settings"
+msgid "Show most visited links on new tab page"
+msgstr ""
+
+msgctxt "settings"
+msgid "Result Title Font"
+msgstr ""
+
+msgctxt "settings"
+msgid "Changes the title link font for each result"
+msgstr ""
+
